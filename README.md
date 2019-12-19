@@ -1,2 +1,1 @@
-# hipaypt-payshop-joomla-virtuemart
-Payshop plugin for Joomla Virtuemart
+## Payshop plugin for Joomla Virtuemart
